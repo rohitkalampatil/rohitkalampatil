@@ -30,7 +30,7 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.lovepik.com%2Ffree-png%2F20211215%2Flovepik-emergency-overtime-programmer-png-image_401637520_wh1200.png&tbnid=x0nwWzh5s9W9vM&vet=12ahUKEwjC-eLAn-uBAxWrz6ACHc4dDvQQMyguegUIARC5AQ..i&imgrefurl=https%3A%2F%2Flovepik.com%2Fimages%2Fpng-programmer.html&docid=dkMzdYD-SoSOTM&w=1002&h=1002&q=programmer%20hi%20greeting%20png&ved=2ahUKEwjC-eLAn-uBAxWrz6ACHc4dDvQQMyguegUIARC5AQ" align="right" style="width: 100%" />
+<img src=" https://octodex.github.com/" align="right" style="width: 100%" />
 </div>  
 
 
