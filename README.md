@@ -30,7 +30,7 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fai.plainenglish.io%2Fthe-ultimate-deep-learning-project-structure-a-software-engineers-guide-into-the-land-of-ai-c383f234fd2f&psig=AOvVaw00CzZdm-3x06pgMeq8EZJt&ust=1697018898486000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPijvpee64EDFQAAAAAdAAAAABAE" align="right" style="width: 100%" />
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20220106%2Fourmid%2Fpngtree-design-of-panda-hi-greeting-expression-envelope-png-image_4088004.png&tbnid=swfVG_TUkgUBzM&vet=12ahUKEwjH5p6WnuuBAxULe2wGHc5BAysQMygqegUIARDIAQ..i&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Fhi-gif-clipart&docid=JT_619AY5BXq5M&w=360&h=360&q=programmer%20hi%20greeting%20gif&ved=2ahUKEwjH5p6WnuuBAxULe2wGHc5BAysQMygqegUIARDIAQ" align="right" style="width: 100%" />
 </div>  
 
 
