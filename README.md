@@ -30,7 +30,7 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src=" https://octodex.github.com/" align="right" style="width: 100%" />
+<img src=" https://octodex.github.com/" align="center" style="width: 100%" />
 </div>  
 
 
