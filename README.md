@@ -1,23 +1,17 @@
 
-
-
-### Hi there 👋
-<div align="center">
+<!--<div align="center">
 <img src="https://media.licdn.com/dms/image/D5616AQHbYrmHsRDPJw/profile-displaybackgroundimage-shrink_350_1400/0/1674580970054?e=1702512000&v=beta&t=n-F14r3mrfuhXqmqR8Culb4ZHUmueduZaGuftWOOxK0" align="center" style="width: 100%" />
-</div>  
+</div>  -->
   
 
-### <div align="center">Hello 👋 I'm Aniket, an aspiring web developer 👨‍💻CSE grad in 2023🚀</div>   
+### <div align="center">Hello 👋 I'm Rohit, an aspiring Java Programmer 👨‍💻Computer Science grad in 2024🚀</div>   
   
 
-- 🌱 I’m currently learning React.js and Node.js  
-  
+ - 📫 How to reach me: rohitkalam96k@gmail.comm
 
-- ❓ Ask me about anything related to frontend web dev and core java  
-  
+ - 🌱 I’m currently learning MERN Stack
 
-- *⚡ Fun fact: I know "how to center a div?"*  
-  
+ - 🔭 I’m currently working in TechnoHack EduTech as Java Developer Intern
 
 <br/>  
 
