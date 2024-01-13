@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rohit Kalam</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mediaqueries.css">
+</head>
+
+<body>
+    <!-- DESKTOP NAV -->
+    <nav id="desktop-nav">
+        <div class="logo"><a href="#profile">Rohit Kalam</a></div>
+        <div>
+            <ul class="nav-links">
+                <li><a href="#contact">Contact</a></li>
+                
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#another-about">About</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- HAMBURGER NAV -->
+    <nav id="hamburger-nav">
+        <div class="logo">Rohit Kalam</div>
+        <div class="hamburger-menu">
+            <div class="hamburger-icon" onclick="toggleMenu()">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="menu-links">
+                <li><a href="#contact" onclick="toggleMenu()">Contact</a></li>
+                <li><a href="#experience" onclick="toggleMenu()">Experience</a></li>
+                <li><a href="#projects" onclick="toggleMenu()">Projects</a></li>
+                
+                <li><a href="#about" onclick="toggleMenu()">About</a></li>
+            </div>
+        </div>
+    </nav>
+
+    <!-- PROFILE -->
+    <section id="profile">
+        <div class="section-pic-container">
+            <img id="profilepicimg" src="./assets/profile-pic.jpg" alt="AniketPanditpic">
+        </div>
+        <div class="section-text">
+            <p class="section-text-p1">Hello, I'm</p>
+            <h1 class="title">Rohit Kalam Patil</h1>
+            <p class="section-text-p2">Full Stack Developer</p>
+            <div class="btn-container custom-btn">
+                <button class="btn btn-color-2" onclick="window.open('./assets/RohitKalam.pdf')">
+                    Download CV
+                </button>
+                <button class="btn btn-color-1" onclick="location.href='./#contact'">
+                    Contact Info
+                </button>
+            </div>
+            <div id="socials-container">
+                <img src="./assets/linkedin.png" alt="linkedin profile" class="icon"
+                    onclick="location.href='https://www.linkedin.com/in/rohitkalampatil/'">
+                <img src="./assets/github.png" alt="github profile" class="icon"
+                    onclick="location.href='https://github.com/rohitkalampatil'">
+            </div>
+
+        </div>
+    </section>
+
+    <!-- About section -->
+    <section id="another-about" class="another-aboutt" >
+        <p class="section-text-p1">Get to know more</p>
+        <h1 class="title">About me</h1>
+        <div class="section-container  another-section-container">
+            <div class="text-container another-text-container">
+                <p>Skilled Fresher with Proficiency in various programming languages, including C, C+ +,Java, Advanced Java, 
+                    Java Database Connectivity ( JDBC ), C#.Net Framework and Python, with expertise in object-oriented design 
+                    and development. Possesses in-depth knowledge of software development lifecycle, and best practices. 
+                    Demonstrated ability to analyse complex problems, propose innovative solutions, and deliver high-quality code. 
+                    Strong communication skills and a passion for continuous learning and professional growth. Committed to 
+                    delivering efficient and reliable software solutions that meet business objectives and exceed customer 
+                    expectations.</p>
+            </div>
+            <div class="education-container">
+                
+                <div class="graduation">
+                    <h2>Bachelors Degree in Computer Science</h2>
+                    <h3>COCSIT Ambajogai</h3>
+                    <p>First Class</p>
+                </div>
+                <div class="hsc">
+                    <h2>HSC</h2>
+                    <h3>College - JPMM College Ambajogai</h3>
+                    <p>Second Class</p>
+                </div>
+                <div class="ssc">
+                    <h3>SSC</h3>
+                    <p>SVVM Kaij</p>
+                    <h4>First Class</h4>
+                </div>
+            
+            </div>
+        </div>
+        <img src="./assets/arrow.png" alt="arrow icon" class="icon arrow" onclick="location.href='./#experience'">
+
+    </section>
+    <!-- EXPERIENCE -->
+    <section id="experience">
+        <p class="section-text-p1">Explore my </p>
+        <h3 class="title">Experience</h3>
+        <div class="experience-details-container">
+            <div class="about-containers">
+                <div class="details-container">
+                    <h2 class="experience-sub-title">Web development</h2>
+                    <div class="article-containers">
+                        <article>
+                            <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                            <div>
+                                <h3>HTML</h3>
+                                <p>Experienced</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                            <div>
+                                <h3>CSS</h3>
+                                <p>Experienced</p>
+                            </div>
+                        </article>
+                        <article>
+                            <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                            <div>
+                                <h3>JavaScript</h3>
+                                <p>Intermediate</p>
+                            </div>
+                        </article>
+                        <!-- <article>
+                            <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                            <div>
+                                <h3>Tailwind CSS</h3>
+                                <p>Intermediate</p>
+                            </div>
+                        </article> -->
+                        <article>
+                            <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                            <div>
+                                <h3>Material UI</h3>
+                                <p>Basic</p>
+                            </div>
+                        </article>
+                        <!-- <article>
+                            <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                            <div>
+                                <h3>ES6</h3>
+                                <p>Basic</p>
+                            </div>
+                        </article> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="about-containers">
+            <div class="details-container">
+                <h2 class="experience-sub-title">Technical Skills</h2>
+                <div class="article-containers">
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                        <div>
+                            <h3>C</h3>
+                            <p>Intermediate</p>
+                        </div>
+                    </article>
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                        <div>
+                            <h3>C++</h3>
+                            <p>Intermediate</p>
+                        </div>
+                    </article>
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                        <div>
+                            <h3>Java</h3>
+                            <p>Experienced</p>
+                        </div>
+                    </article>
+                   
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                        <div>
+                            <h3>Git & Github</h3>
+                            <p>Basic</p>
+                        </div>
+                    </article>
+                    
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                        <div>
+                            <h3>SQL</h3>
+                            <p>Basic</p>
+                        </div>
+                    </article>
+                    <article>
+                        <img src="./assets/checkmark.png" alt="Exp icon" class="icon">
+                        <div>
+                            <h3>MS Office</h3>
+                            <p>Experienced</p>
+                        </div>
+                    </article>
+
+                </div>
+            </div>
+        </div>
+        </div>
+
+
+        <img src="./assets/arrow.png" alt="arrow icon" class="icon arrow" onclick="location.href='./#projects'">
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects">
+        <p class="section-text-p1">Browse my recent</p>
+        <h1 class="title">Projects</h1>
+        <div class="experience-details-container">
+
+            <!-- project 1 -->
+            <div class="details-container color-container">
+                <div class="article-containers">
+                    <div class="article-containers">
+                        <img src="./assets/Coming-soon.jpg" alt="project1"
+                        class="project-img">
+                    </div>
+                    <h2 class="experience-sub-title project-title">LeaveApp - J2EE Application</h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn" 
+                        onclick="location.href='https://github.com/rohitkalampatil/LeaveApp.git'">
+                            Github</button>
+                            <button class="btn btn-color-1 project-btn" 
+                        >
+                            Live Demo</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- project 2 -->
+            <div class="details-container color-container">
+                <div class="article-containers">
+                    <div class="article-containers">
+                        <img src="./assets/Coming-soon.jpg" alt="project2"
+                        class="project-img">
+                    </div>
+                    <h2 class="experience-sub-title project-title">No Dues - J2EE Application</h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn" 
+                        onclick="location.href='https://github.com/rohitkalampatil/nodues.git'">
+                            Github</button>
+                            <button class="btn btn-color-1 project-btn" 
+                        >
+                            Live Demo</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- project 3 -->
+            <div class="details-container color-container">
+                <div class="article-containers">
+                    <div class="article-containers">
+                        <img src="./assets/Coming-soon.jpg" alt="project3"
+                        class="project-img">
+                    </div>
+                    <h2 class="experience-sub-title project-title">PharmaShope - J2SE</h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn" 
+                        onclick="location.href='https://github.com/rohitkalampatil/PharmaShop.git'">
+                            Github</button>
+                            <button class="btn btn-color-1 project-btn" 
+                        onclick="location.href='https://github.com'">
+                            Live Demo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <img src="./assets/arrow.png" alt="arrow icon" class="icon arrow" onclick="location.href='./#contact'">
+
+
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+        <p class="section-text-p1">Get in touch</p>
+        <h1 class="title">Contact me</h1>
+        <div class="contact-info-upper-container">
+            <div class="contact-info-container ">
+                <img src="./assets/email.png" alt="email icon"
+                class="icon contact email-icon">
+                <p><a href="mailto:rohitkalam96k@gmail.com" target="_blank">rohitkalam96k@gmail.com</a></p>
+            </div>
+            <!-- <div class="contact-info-container ">
+                <img src="./assets/google.png" alt="email icon"
+                class="icon contact email-icon">
+                <p><a href="https://g.dev/rohitkalam" target="_blank">Google.Dev.rohitkalam</a></p>
+            </div> -->
+            <div class="contact-info-container">
+                <img src="./assets/linkedin.png" alt="linkedin icon"
+                class="icon contact">
+                <p><a href="https://www.linkedin.com/in/rohitkalampatil/" target="_blank">Linkedin/RohitKalam</a></p>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+
+    <footer>
+        <nav>
+            <div class="nav-links-container">
+                <ul class="nav-links">
+                    <li><a href="#profile">Home</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    
+                    <li><a href="#another-about">About</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <p>Copyright &#169; 2024 Rohit Kalam. All Rights Reserved</p>
+    
+    </footer>
+
+<!-- By Rohit Kalam -->
+    <script src="script.js"></script>
+</body>
+
+</html>
