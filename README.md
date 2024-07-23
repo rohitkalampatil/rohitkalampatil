@@ -17,26 +17,7 @@
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Github](https://github.com/rohitkalampatil)  
-  
-
-- 🌱 I’m currently learning MERN Stack and Android  
-  
-
-- ❓ Ask me about anything related to Java related technologies  
-
-
-</td><td valign="top" width="50%">
-
-<div align="right">
-<img src=" https://octodex.github.com/" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
